@@ -1,2 +1,2 @@
-# rotator
+# Rotator
 Free Advertising rotator.
