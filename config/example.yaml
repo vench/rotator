@@ -1,0 +1,7 @@
+app_name: XXX
+
+http:
+  port: 8090
+
+feed:
+  path: "assets/example/feed/ad_source.json"

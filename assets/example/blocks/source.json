@@ -1,0 +1,19 @@
+[
+  {
+    "id": 600001,
+    "filters_request": [
+      {
+        "condition": "eq",
+        "field": "geo",
+        "values": ["RU","UA"]
+      }
+    ],
+    "filters_content": [
+      {
+        "field": "some_field",
+        "values": ["value1","value2"],
+        "condition": "eq"
+      }
+    ]
+  }
+]
